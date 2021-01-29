@@ -27,5 +27,7 @@
      (Shift)+(F12) で上
      5. ユーザーガイド<br>
      https://marketplace.visualstudio.com/items?itemName=jaycetyle.vscode-gnu-global
+     6. grep<br>
+     (Ctrl+Shift+F)
   - メモ<br> 
-     使い勝手はvimでgtags使うのとあまり変わらないように感じますのでVSCodeでも導入推奨です.
+     タグジャンプの使い勝手はvimでgtags使うのとあまり変わらないように感じますのでVSCodeでも導入推奨です.
