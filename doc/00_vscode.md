@@ -22,10 +22,14 @@
      (F12)
      3. 定義先へジャンプ<br>
      (Shift + F12)
-     4. カーソル移動<br>
+     4. ジャンプ先から戻る<br>
+     (Ctrl + Alt + -)
+     5. カーソル移動<br>
      (F12)で下<br>
      (Shift)+(F12) で上
-     5. ユーザーガイド<br>
+     6. ユーザーガイド<br>
      https://marketplace.visualstudio.com/items?itemName=jaycetyle.vscode-gnu-global
+     7. grep<br>
+     (Ctrl+Shift+F)
   - メモ<br> 
-     使い勝手はvimでgtags使うのとあまり変わらないように感じますのでVSCodeでも導入推奨です.
+     タグジャンプの使い勝手はvimでgtags使うのとあまり変わらないように感じますのでVSCodeでも導入推奨です.
