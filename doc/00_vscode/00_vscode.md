@@ -27,5 +27,10 @@
      (Shift)+(F12) で上
      5. ユーザーガイド<br>
      https://marketplace.visualstudio.com/items?itemName=jaycetyle.vscode-gnu-global
-  - メモ<br> 
-     使い勝手はvimでgtags使うのとあまり変わらないように感じますのでVSCodeでも導入推奨です.
+
+- settings.json
+  - settings.jsonの置き場所(Linux)
+    ```
+    $HOME/.config/Code/User/settings.json
+    ```
+    設定ファイルは[こちら](https://github.com/lef2/treefrog_practice/blob/master/doc/00_vscode/settings/)

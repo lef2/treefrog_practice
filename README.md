@@ -21,11 +21,11 @@
 <br>
 
 ## 5. 各工程のリンク
-0. [VSCodeノウハウ](https://github.com/lef2/treefrog_practice/blob/master/doc/00_vscode.md)
+0. [VSCodeノウハウ](https://github.com/lef2/treefrog_practice/blob/master/doc/00_vscode)
 
-1. [インストール](https://github.com/lef2/treefrog_practice/blob/master/doc/01_install.md) 
+1. [インストール](https://github.com/lef2/treefrog_practice/blob/master/doc/01_install) 
 
-2. [チュートリアル](https://github.com/lef2/treefrog_practice/blob/master/doc/02_tutorial.md)
+2. [チュートリアル](https://github.com/lef2/treefrog_practice/blob/master/doc/02_tutorial)
 
 3. [ジェネレータ]()
 
