@@ -90,8 +90,8 @@
   // ミニマップを表示するかどうかを制御します
   "editor.minimap.enabled": true,
 
-  // 表示するミニマップの最大幅を特定の桁数に制限します
-  "editor.minimap.maxColumn": 160,
+  // 表示するミニマップの最大幅を特定の桁数に制限します(最大120)
+  "editor.minimap.maxColumn": 120,
 
   // ミニマップスライダーを制御します
   "editor.minimap.showSlider": "always",
