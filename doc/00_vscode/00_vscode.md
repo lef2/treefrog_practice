@@ -11,6 +11,10 @@
      /usr/bin/gtags<br>
      
   - extensionインストール
+     - apanese Language Pack for Visual Studio Code
+     - C/C++
+     - CMake
+     - CMake Tools
      - C++ Intellisense
      - C/C++ GNU Global<br>
 
