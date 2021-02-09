@@ -32,6 +32,13 @@
      5. ユーザーガイド<br>
      https://marketplace.visualstudio.com/items?itemName=jaycetyle.vscode-gnu-global
 
+- ショートカット集
+     - 戻る 			      Ctrl + Alt + - <br>
+     - 進む 			      Ctrl + Shift + \ <br>
+     - ファイルの移動 		 Ctrl + Tab <br>
+     - ファイル内検索 		 Ctrl + F <br>
+     - ワークスペース検索 	Ctrl + Shift + F <br>
+
 - settings.json
   - settings.jsonの置き場所(Linux)
     ```
