@@ -35,9 +35,18 @@
 - ショートカット集
      - 戻る 			      Ctrl + Alt + - <br>
      - 進む 			      Ctrl + Shift + \ <br>
+     
      - ファイルの移動 		 Ctrl + Tab <br>
-     - ファイル内検索 		 Ctrl + F <br>
-     - ワークスペース検索 	Ctrl + Shift + F <br>
+     - 閉じる Ctrl + W <br>
+   
+     - ファイル内、文字検索 		 Ctrl + F <br>
+     - 次を検索 F3 <br>
+     - 前を検索 Shift + F3 <br>
+     - ワークスペース内、文字検索 	Ctrl + Shift + F <br>
+     - ファイル名検索 Ctrl + P <br>
+
+     - 行移動 Ctrl + G <br>
+     - カッコジャンプ Ctrl + Shift + \ <br>
 
 - settings.json
   - settings.jsonの置き場所(Linux)
